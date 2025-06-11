@@ -6,3 +6,6 @@
  -Desarrollar una calculadora en JAVA donde: se deberá solicitar el monto, preguntar el porcentaje, calcula, mostrar y el total.
  -Realizar acciones en git para clonar y subir.
  4- Verificar que jira se haya registrado la actividad del repositorio.
+
+ revisar si se hizo el commit
+ 
